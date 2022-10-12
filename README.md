@@ -1,5 +1,5 @@
 # Recipe-App
-Receipe App in the browser using VanillaJS to generate meals from a public API.
+Recipe App in the browser using VanillaJS to generate meals from a public API.
 
 ### Functionalities
 
